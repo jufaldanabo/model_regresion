@@ -1,20 +1,19 @@
-# Generación de Modelo de Regresion
+# Generación de Modelo de Regresión
 
-Este proyecto contiene el desarrollo de un modelo de aprendizaje automático supervizado con enfasis a la regresion, este modelo tiene los siguientes topicos:
+Este proyecto contiene el desarrollo de un modelo de aprendizaje automático supervisado con énfasis a la regresión, este modelo tiene los siguientes tópicos:
 
 1. análisis exploratorio de datos
 2. Detección y eliminación de Outliers
 3. Encoding
 4. Imputación de valores faltantes
 5. Escalado de datos
-7. Genercion de modelos, tunning y resultados
+7. Generación de modelos, tunning y resultados
+
 
 
 # Tabla de contenido
 - [Definición](#definicion)
-- [Requisitos](#requisitos)
-- [Uso de AWS](#aws)
-- [Despliegue](#despliegue)
+- [Pipeline](#requisitos)
 
 
 
@@ -28,3 +27,6 @@ Este proyecto contiene el desarrollo de un modelo de aprendizaje automático sup
     ├── .gitignore                    
     └── README.md                          
                
+## Pipeline:
+
+![alt text](https://github.com/jufaldanabo/model_regresion/blob/main/images/arquitectura.PNG)
