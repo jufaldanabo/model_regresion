@@ -29,4 +29,4 @@ Este proyecto contiene el desarrollo de un modelo de aprendizaje automático sup
                
 ## Pipeline:
 
-![alt text](https://github.com/jufaldanabo/model_regresion/blob/main/images/arquitectura.PNG)
+![alt text](https://github.com/jufaldanabo/model_regresion/blob/main/images/pipeline.PNG)
